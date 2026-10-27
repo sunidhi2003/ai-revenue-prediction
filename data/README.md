@@ -1,0 +1,1 @@
+The CSV is generated locally by `python scripts/generate_sample_data.py`. It is synthetic demo data, not real business data. Keep the generated CSV out of source control if your repository policy prefers generated artifacts.
